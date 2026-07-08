@@ -40,3 +40,7 @@ __pycache__
 
 # Directenv
 .envrc
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
